@@ -1,2 +1,4 @@
-* Exercicios java
-Exercicios que fiz para fixar e aprender na pratica a linguagem java
+# Exercícios em Java
+
+Este repositório contém exercícios desenvolvidos durante meus estudos em Java, com foco em praticar a lógica de programação e os principais conceitos da linguagem.
+
